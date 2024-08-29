@@ -1,5 +1,4 @@
-# A Secure Median Implementation for the Federated Secure
-Computing Architecture
+# A Secure Median Implementation for the Federated Secure Computing Architecture
 
 ## Authors: Christian Goelz, Solveig Vieluf, Hendrik Ballhausen
 
